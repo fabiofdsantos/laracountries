@@ -1,5 +1,5 @@
-# Laravel Countries
-Migration and seed files with all countries. For Laravel PHP Framework.
+# Laracountries
+Migration and seed files with all countries for Laravel PHP Framework.
 
 The country codes are in the format [ISO 3166-1 alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
