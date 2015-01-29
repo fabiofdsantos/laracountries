@@ -19,7 +19,7 @@ The country codes are in the format [ISO 3166-1 alpha-2](http://en.wikipedia.org
 	}
 ```
 #### View
-```php
+```html
     <select class="form-control" name="country">
         <option value="">Select a country</option>
         @foreach($countries as $country)
