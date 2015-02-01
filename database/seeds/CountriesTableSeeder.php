@@ -229,7 +229,7 @@ class CountryTableSeeder extends Seeder {
             array('name' => 'Sweden', 'code' => 'SE'),
             array('name' => 'Switzerland', 'code' => 'CH'),
             array('name' => 'Syrian Arab Republic', 'code' => 'SY'),
-            array('name' => 'Taiwan, Province of China', 'code' => 'TW'),
+            array('name' => 'Taiwan', 'code' => 'TW'),
             array('name' => 'Tajikistan', 'code' => 'TJ'),
             array('name' => 'Tanzania, United Republic of', 'code' => 'TZ'),
             array('name' => 'Thailand', 'code' => 'TH'),
