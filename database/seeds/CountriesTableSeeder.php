@@ -1,6 +1,6 @@
 <?php
 
-class CountryTableSeeder extends Seeder {
+class CountriesTableSeeder extends Seeder {
 
     /**
      * Run the seeder.
