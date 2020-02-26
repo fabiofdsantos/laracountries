@@ -41,5 +41,4 @@ public function create()
 ```
 
 ## License
-Copyright (c) 2015 [Fábio Santos](http://www.fabiosantos.me). See the LICENSE
-file for license rights and limitations (MIT).
+See the LICENSE file for license rights and limitations (MIT).
