@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Schema;
 
 class CountriesTableSeeder extends Seeder
 {
@@ -11,7 +13,9 @@ class CountriesTableSeeder extends Seeder
      */
     public function run()
     {
+        Schema::disableForeignKeyConstraints();
         DB::table('countries')->truncate();
+        Schema::enableForeignKeyConstraints();
 
         $countries = [
             ['name' => 'Afghanistan', 'code' => 'AF'],
